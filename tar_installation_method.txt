@@ -1,0 +1,25 @@
+.tar.gz or .tgz
+.tar.bz or tar.bz2
+
+cmd :
+
+tar xvf
+
+x= extract 
+v= verbose
+f= feedback when we install files
+z= for compressed file
+
+tar xvfz file.tar.gz
+
+no z for .tar file only
+
+tar xvf file.tar 
+
+cd to extracted directory and ls green file an executeable file will be there
+
+after which you will use make cmd
+make cmd will compile and build it to your device
+
+after run make install cmd
+
